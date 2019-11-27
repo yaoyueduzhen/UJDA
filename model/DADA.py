@@ -96,7 +96,7 @@ class DADAnet(nn.Module):
 class DADA(object):
 
     def __init__(self, use_base = False, base_net = 'ResNet50', class_num = 31, use_gpu = True):
-        self.c_net = MCDnet(use_base= use_base, base_net = base_net, class_num = class_num)
+        self.c_net = DADAnet(use_base= use_base, base_net = base_net, class_num = class_num)
         self.use_gpu = use_gpu
         self.is_train =False
         self.iter_num = 0

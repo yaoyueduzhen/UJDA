@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="197e6662-f3a8-41ff-b884-566f9f12ce92" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/model/DADA.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/DADA.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/2019_ICML_MDD$train.coverage" NAME="train Coverage Results" MODIFIED="1567506910820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainer" />
+    <SUITE FILE_PATH="coverage/2019_ICML_MDD$train_MCD.coverage" NAME="train_MCD Coverage Results" MODIFIED="1567860487733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainer" />
+    <SUITE FILE_PATH="coverage/MDD_MCD$train_MCD.coverage" NAME="train_MCD Coverage Results" MODIFIED="1573199750953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trainer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainer/train_DADA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="146" column="39" lean-forward="true" selection-start-line="146" selection-start-column="39" selection-end-line="146" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/model/DADA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="100" column="28" lean-forward="true" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Image</find>
+      <find>ImageOps</find>
+      <find>batch</find>
+      <find>best</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/train.sh" />
+        <option value="$PROJECT_DIR$/preprocess/data_list.py" />
+        <option value="$PROJECT_DIR$/model/MDD.py" />
+        <option value="$PROJECT_DIR$/model/backbone.py" />
+        <option value="$PROJECT_DIR$/preprocess/data_provider.py" />
+        <option value="$PROJECT_DIR$/trainer/train.py" />
+        <option value="$PROJECT_DIR$/model/Logger.py" />
+        <option value="$PROJECT_DIR$/data/result.txt" />
+        <option value="$PROJECT_DIR$/utils/config.py" />
+        <option value="$PROJECT_DIR$/新建文本文档.txt" />
+        <option value="$PROJECT_DIR$/trainer/RCA.py" />
+        <option value="$PROJECT_DIR$/trainer/target_only.txt" />
+        <option value="$PROJECT_DIR$/config/dann.yml" />
+        <option value="$PROJECT_DIR$/model/MCD.py" />
+        <option value="$PROJECT_DIR$/trainer/train_MCD.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/model/DADA.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="887" />
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1011" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DADA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DADA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DADA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DADA" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DADA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DADA" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocess" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DADA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DADA" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DADA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DADA" type="462c0819:PsiDirectoryNode" />
+              <item name="trainer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train_MCD">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python">
+      <module name="2019_ICML_MDD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://iip@114.212.87.44:22/home/iip/anaconda3/envs/conda36/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer/train.py" />
+      <option name="PARAMETERS" value="--config ../config/dann.yml   --dataset Office-31   --src_address ../data/dslr.txt    --tgt_address ../data/amazon.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_MCD" type="PythonConfigurationType" factoryName="Python">
+      <module name="2019_ICML_MDD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://iip@114.212.87.44:22/home/iip/anaconda3/envs/conda36/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trainer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trainer/train_MCD.py" />
+      <option name="PARAMETERS" value="--config ../config/dann.yml --dataset Office-31 --src_address ../data/webcam.txt --tgt_address ../data/amazon.txt --src_test_address ../data/webcam.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.train_MCD" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="197e6662-f3a8-41ff-b884-566f9f12ce92" name="Default" comment="" />
+      <created>1563782579591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563782579591</updated>
+      <workItem from="1568099151939" duration="9403000" />
+      <workItem from="1568121886754" duration="741000" />
+      <workItem from="1568124408946" duration="16424000" />
+      <workItem from="1568265465403" duration="12000" />
+      <workItem from="1568345317268" duration="38000" />
+      <workItem from="1568360809060" duration="2594000" />
+      <workItem from="1568461614738" duration="6666000" />
+      <workItem from="1568544790350" duration="41435000" />
+      <workItem from="1568776823490" duration="14576000" />
+      <workItem from="1568813390808" duration="15908000" />
+      <workItem from="1568965042537" duration="3012000" />
+      <workItem from="1569066383334" duration="1002000" />
+      <workItem from="1569157614826" duration="70000" />
+      <workItem from="1569159162590" duration="1197000" />
+      <workItem from="1569209143703" duration="936000" />
+      <workItem from="1569237904613" duration="1665000" />
+      <workItem from="1569243187983" duration="355000" />
+      <workItem from="1569245547317" duration="2584000" />
+      <workItem from="1569290863840" duration="1770000" />
+      <workItem from="1569380216316" duration="3201000" />
+      <workItem from="1569411432314" duration="571000" />
+      <workItem from="1569414196900" duration="1499000" />
+      <workItem from="1569466877073" duration="1018000" />
+      <workItem from="1569817913940" duration="323000" />
+      <workItem from="1570282738631" duration="13000" />
+      <workItem from="1570520633682" duration="296000" />
+      <workItem from="1570628699508" duration="967000" />
+      <workItem from="1570682115422" duration="4351000" />
+      <workItem from="1570763382783" duration="3388000" />
+      <workItem from="1571806661155" duration="315000" />
+      <workItem from="1572859302406" duration="13000" />
+      <workItem from="1573190673313" duration="9598000" />
+      <workItem from="1573211883121" duration="375000" />
+      <workItem from="1573280705194" duration="764000" />
+      <workItem from="1573359934233" duration="2471000" />
+      <workItem from="1573652594068" duration="810000" />
+      <workItem from="1573702403672" duration="1004000" />
+      <workItem from="1573712531437" duration="943000" />
+      <workItem from="1573785175541" duration="96000" />
+      <workItem from="1573785568254" duration="539000" />
+      <workItem from="1574663976006" duration="2558000" />
+      <workItem from="1574669556903" duration="15000" />
+      <workItem from="1574669821673" duration="62000" />
+      <workItem from="1574681810526" duration="606000" />
+      <workItem from="1574742883141" duration="1424000" />
+      <workItem from="1574765947848" duration="297000" />
+      <workItem from="1574832368032" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="159200000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="887" y="23" width="1920" height="1011" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115015976" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39281827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4047878" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3264418" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32922733" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32814237" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32922733" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32208923" />
+      <window_info anchor="bottom" id="SVN Repositories" order="14" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32970026" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32970026" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10117146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39281827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40489432" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3264418" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32922733" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32814237" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32922733" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32208923" />
+      <window_info anchor="bottom" id="SVN Repositories" order="14" weight="0.32925472" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.32970026" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32970026" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0433.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0442.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0450.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0451.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0458.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0462.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0476.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0494.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0511.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0513.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0533.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0552.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0559.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0560.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0635.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0636.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0692.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0697.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0734.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0742.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0758.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0776.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0780.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0798.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/146_0006.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/146_0011.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0719.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/image-clef/c/145_0715.jpg" />
+    <entry file="file://$PROJECT_DIR$/trainer/RCA.py" />
+    <entry file="file://$PROJECT_DIR$/data/office/domain_adaptation_images/webcam.txt" />
+    <entry file="file://$PROJECT_DIR$/data/dslr.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/webcam.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/source_only.txt" />
+    <entry file="file://$PROJECT_DIR$/trainer/target_only.txt" />
+    <entry file="file://$PROJECT_DIR$/trainer/target_only_label" />
+    <entry file="file://$PROJECT_DIR$/trainer/target_only" />
+    <entry file="file://$PROJECT_DIR$/trainer/source_only_label" />
+    <entry file="file://$PROJECT_DIR$/trainer/source_only" />
+    <entry file="file://$USER_HOME$/Desktop/experiments/A-distance/run.py" />
+    <entry file="file://$PROJECT_DIR$/data/t.py" />
+    <entry file="file://$PROJECT_DIR$/config/dann.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/backbone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="118" column="33" lean-forward="true" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/MCD.py" />
+    <entry file="file://$PROJECT_DIR$/新建文本文档.txt" />
+    <entry file="file://$PROJECT_DIR$/trainer/train_MCD.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/amazon.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/c_list.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainer/train_DADA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="146" column="39" lean-forward="true" selection-start-line="146" selection-start-column="39" selection-end-line="146" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/DADA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="100" column="28" lean-forward="true" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
