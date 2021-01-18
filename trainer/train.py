@@ -5,7 +5,7 @@ sys.path.append("..")
 from utils.config import Config
 from torch.autograd import Variable
 import torch
-from model.DADA import DADA
+from model.UJDA import UJDA
 from model.Logger import Logger
 from tensorboardX import SummaryWriter
 import numpy
@@ -104,7 +104,7 @@ def save_features(model_instance, input_loader, filename):
 
 
 
-def train_MCD(model_instance, train_source_loader, train_target_loader, test_target_loader, test_source_loader, group_ratios,
+def train(model_instance, train_source_loader, train_target_loader, test_target_loader, test_source_loader, group_ratios,
           max_iter, optimizer, eval_interval, lr_scheduler, num_k = 4, iter_classifier = 10000):
     model_instance.set_train(True)
     print("start train...")
@@ -308,7 +308,7 @@ if __name__ == '__main__':
         width = -1
 
 
-    model_instance = DADA(use_base= True, base_net='ResNet50', use_gpu= True, class_num=class_num)
+    model_instance = UJDA(use_base= True, base_net='ResNet50', use_gpu= True, class_num=class_num)
     train_source_loader = load_images(source_file, batch_size= cfg.batch_size, is_cen=is_cen)
     train_target_loader = load_images(target_file, batch_size= cfg.batch_size, is_cen=is_cen)
     test_source_loader = load_images(source_file_test, batch_size= cfg.batch_size, is_cen=is_cen)
@@ -327,6 +327,6 @@ if __name__ == '__main__':
                                 decay_rate=cfg.lr_scheduler.decay_rate,
                                 init_lr=cfg.init_lr)
 
-    train_MCD(model_instance, train_source_loader, train_target_loader, test_target_loader, test_source_loader, group_ratios,
+    train(model_instance, train_source_loader, train_target_loader, test_target_loader, test_source_loader, group_ratios,
               max_iter=100000, optimizer=optimizer, eval_interval=200, lr_scheduler = lr_scheduler)
 
