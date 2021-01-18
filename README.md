@@ -23,12 +23,7 @@ run :
 If you use this code for your research, please consider citing:
 
 ```
-@article{du2020dual,
-  title={Unsupervised domain adaptation with unified joint distribution alignment},
-  author={Du, Yuntao and Tan, Zhiwen and Chen, Qian and Zhang, Xiaowen and Yao, Yirong and Wang, Chongjun},
-  journal={arXiv preprint arXiv:2001.00153},
-  year={2020}
-}
+
 ```
 
 ## Contact
