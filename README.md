@@ -1,5 +1,6 @@
-# DADA
-Dual Adversarial Domain Adaptation
+# UJDA
+Unsupervised domain adaptation with unified joint
+distribution alignment
 
 ## Prerequisites:
 
@@ -16,14 +17,14 @@ You need to modify the path of the image in every ".txt" in "./data".
 ## Training:
 run :
 
-    python train_DADA.py --config ../config/dann.yml   --dataset Office-31   --src_address ../data/amazon.txt    --tgt_address     ../data/dslr.txt  --src_test_address ../data/amazon.txt
+    python train.py --config ../config/dann.yml   --dataset Office-31   --src_address ../data/amazon.txt    --tgt_address     ../data/dslr.txt  --src_test_address ../data/amazon.txt
 
 ## Citation:
 If you use this code for your research, please consider citing:
 
 ```
 @article{du2020dual,
-  title={Dual Adversarial Domain Adaptation},
+  title={Unsupervised domain adaptation with unified joint distribution alignment},
   author={Du, Yuntao and Tan, Zhiwen and Chen, Qian and Zhang, Xiaowen and Yao, Yirong and Wang, Chongjun},
   journal={arXiv preprint arXiv:2001.00153},
   year={2020}
