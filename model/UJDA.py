@@ -24,10 +24,10 @@ class GradientReverseLayer(torch.autograd.Function):
             (self.high_value - self.low_value) + self.low_value)
         return -self.coeff * grad_output
 
-class DADAnet(nn.Module):
+class UJDAnet(nn.Module):
 
     def __init__(self, use_base = False, base_net = 'ResNet50', class_num = 31 ,bottleneck_dim = 1024, width =1024):
-        super(DADAnet, self).__init__()
+        super(UJDAnet, self).__init__()
         self.use_base = use_base
         self.bottleneck_dim = bottleneck_dim
         self.class_num = class_num
@@ -93,10 +93,10 @@ class DADAnet(nn.Module):
         return features, outputs_classifier, outputs_classifier1, outputs_classifier2
 
 
-class DADA(object):
+class UJDA(object):
 
     def __init__(self, use_base = False, base_net = 'ResNet50', class_num = 31, use_gpu = True):
-        self.c_net = DADAnet(use_base= use_base, base_net = base_net, class_num = class_num)
+        self.c_net = UJDAnet(use_base= use_base, base_net = base_net, class_num = class_num)
         self.use_gpu = use_gpu
         self.is_train =False
         self.iter_num = 0
