@@ -1,7 +1,7 @@
 # UJDA
 Unsupervised domain adaptation with unified joint
 distribution alignment
-paper link(https://dl.acm.org/doi/abs/10.1007/978-3-030-73197-7_30)
+[paper link](https://dl.acm.org/doi/abs/10.1007/978-3-030-73197-7_30)
 ## Prerequisites:
 
 * Python3
